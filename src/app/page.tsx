@@ -3,7 +3,7 @@ import Link from "next/link"
 export default function Home() {
   return (
     <main className="p-10">
-      Trash Hub
+      Trash Hub AUTO DEPLOY LUR
       <div>Anda ingin bergabung sebagai apa</div>
       <div className="flex gap-2">
         <Link href="/registration/cleaner">
